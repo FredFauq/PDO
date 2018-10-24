@@ -1,0 +1,49 @@
+body, html {
+    height: 100%;
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    background-color: #4B515D;
+    padding-top: 40px;
+    background-image: url("https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif");
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.container-fluid{
+    height: 100%;
+
+}
+td, tr,th{
+    border-collapse:collapse;
+    border:1px solid white;
+    background-color:#4e6766;
+}
+table{
+    text-align:center;
+    border-radius:5px;
+}
+h3{
+    font-weight: bold;
+}
+.firstTest{
+    background-color:#212121;
+    border:1px solid white;
+    border-radius:5px;
+    margin-top:15px;
+    margin-bottom:15px;
+    padding:15px;
+}
+footer{
+    margin-bottom: 0px;
+}
+.fas{
+    color: white;
+    margin-left: 47%;
+}
+a{
+    color: white;
+}
+a :hover{
+    color: blue;
+}

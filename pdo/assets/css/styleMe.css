@@ -1,0 +1,18 @@
+.container-fluid{
+    background-color:#d3d3d3;
+}
+td, tr,th{
+    border-collapse:collapse;
+    border:1px solid black;
+}
+table{
+    text-align:center;
+    border-radius:30px;
+}
+.firstTest, .secondTest{
+    background-color:white;
+    border-radius:30px;
+    margin-top:15px;
+    margin-bottom:15px;
+    padding:15px;
+}

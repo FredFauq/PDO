@@ -1,0 +1,29 @@
+body {
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    background-color: #4e6766;
+    padding-top: 100px;
+}
+h1{
+    font-weight: bold;
+}
+.container-fluid{
+    height: 100%;
+    background-color: #4e6766;
+}
+td, tr,th{
+    border-collapse:collapse;
+    border:1px solid white;
+    background-color:#4e6766;
+}
+table{
+    text-align:center;
+    border-radius:5px;
+}
+.firstTest, .secondTest{
+    background-color:#1e152a;
+    border-radius:15px;
+    margin-top:15px;
+    margin-bottom:15px;
+    padding:15px;
+}

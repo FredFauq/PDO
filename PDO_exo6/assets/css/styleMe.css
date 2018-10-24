@@ -1,0 +1,39 @@
+body, html {
+    height: 100%;
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    background-color: #1C2331;
+    padding-top: 70px;
+    background-image: url("../img/close-up-code.jpg");
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h3{
+    font-weight: bold;
+}
+.container-fluid{
+    height: 100%;
+
+}
+td, tr,th{
+    border-collapse:collapse;
+    border:1px solid white;
+    background-color:#263238;
+}
+table{
+    text-align:center;
+    border-radius:5px;
+}
+.firstTest{
+    background-color:#212121;
+    border:1px solid white;
+    border-radius:15px;
+    margin-top:15px;
+    margin-bottom:15px;
+    padding:15px;
+}
+footer{
+    margin-bottom: 0px;
+}
